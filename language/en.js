@@ -87,20 +87,6 @@ var Translations = {
      * If the promo area is not required then remove the content from the variable - "PromoSettings": {};
      */
     "PromoSettings": {
-        "promo1": {
-            "trackingName": "promo1",
-            "url": "http://example.com/",
-            "label": "Promo (Top)",
-            "desktopImage": "./images/Digital360.png",
-            "mobileImage": "./images/Digital360.png"
-        },
-        "promo2": {
-            "trackingName": "promo2",
-            "url": "http://example.com/",
-            "label": "Promo (Bottom)",
-            "desktopImage": "./images/Precisely.png",
-            "mobileImage": "./images/Precisely.png"
-        }
     },
 
     /**
