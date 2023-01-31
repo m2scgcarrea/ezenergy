@@ -60,11 +60,11 @@ var socialIconSettings = {
  * "FullScreenEnabled" enables the fullscreen functionality of the landing page
  */
 var timelineSettings = {
-    "SeenChaptersEnabled": true,
+    "SeenChaptersEnabled": false,
     "ContrastProgressBarEnabled": false,
     "BufferBarEnabled": true,
     "ClosedCaptionsSupported": true,
-    "MultiLanguageSupported": true,
+    "MultiLanguageSupported": false,
     "FullScreenEnabled": true
 };
 
@@ -79,6 +79,5 @@ var languageSettings = {
     "defaultLanguage": "en",
     "languages": {
         "en": "English (EN)",
-        "es": "Espa&ntilde;ol (ES)"
     }
 };
