@@ -122,7 +122,16 @@ var Translations = {
             "states": [
                 {
                     "cardId": "82bc3a64",
-                    "width": 40
+                    "width": 20
+                }
+            ]
+        },
+        {
+            "label": "I nostri consigli",
+            "states": [
+                {
+                    "cardId": "d392d998",
+                    "width": 20
                 }
             ]
         }
