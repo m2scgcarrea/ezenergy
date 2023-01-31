@@ -290,7 +290,7 @@
 }
 
 .promo--side .promo__image {
-    background-size: 200% 100%;
+    background-size: 50% 50%;
 }
 
 .promo--side .promo__link:hover .promo__image,
@@ -300,7 +300,7 @@
 }
 
 .promo--bottom .promo__image {
-    background-size: 100% 200%;
+    background-size: 50% 50%;
 }
 
 .promo__link {
