@@ -100,7 +100,7 @@ var Translations = {
      */
     "ChapterSettings": [
         {
-            "label": "Introduction",
+            "label": "La tua Bolletta",
             "states": [
                 {
                     "cardId": "START",
@@ -109,7 +109,7 @@ var Translations = {
             ]
         },
         {
-            "label": "Verifica i consumi",
+            "label": "Cosa vuoi fare?",
             "states": [
                 {
                     "cardId": "fc132131",
@@ -118,7 +118,7 @@ var Translations = {
             ]	
         },
         {
-            "label": "Confronto consumi",
+            "label": "Confronta i consumi",
             "states": [
                 {
                     "cardId": "82bc3a64",
