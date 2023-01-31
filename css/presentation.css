@@ -80,6 +80,10 @@
     font-weight: bold;
 }
 
+#jsSocialIconsTop {
+	display: none;
+}
+
 .social--top {
     background-color: rgba(31, 31, 31, 0.3);
 }
