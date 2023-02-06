@@ -1182,7 +1182,7 @@ sub {
     .top-wrapper--no-cta .timeline__controls--right,
     .top-wrapper--no-promo .timeline--no-volume .timeline__controls--right,
     .top-wrapper--no-cta .timeline--no-volume .timeline__controls--right {
-        width: 20%;
+        width: 10%;
         padding-left: 0;
     }
 
